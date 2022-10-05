@@ -9,6 +9,7 @@
 <link rel="bookmark" href="favicon.ico" type="image/x-icon"　/>
 <title>Chen Shaobin (陈少斌)</title>
 </head>
+ 
 <body>
 <table summary="Table for page layout." id="tlayout">
 <tr valign="top">
@@ -28,7 +29,7 @@ East China Normal University,<br />
 Shanghai, China <br /> 
 E-mail: <a href="mailto:chenshaobin000001@gmail.com">chenshaobin000001@gmail.com</a></p>
 </td></tr></table>
-<h2>About me</h2>
+<h2>About Me</h2>
 <p>I received the B.S. degree from the Anhui University of Technology, in 2019, and will receive the M.S. degree from East China Normal University, in 2023 (expected). My main research interests include Natural language processing and Representation Learning. I do my intern at Shanghai Stock Exchange now.</p>
   
 <h2>Education</h2>
