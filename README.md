@@ -35,7 +35,7 @@ E-mail: <a href="mailto:chenshaobin000001@gmail.com">chenshaobin000001@gmail.com
 <li>M.E., Computer Science and Technology, <a href="https://www.ecnu.edu.cn//">East China Normal University</a></li>
 <li>B.E., Mathematics and Applied Mathematics, <a href="https://www.ahut.edu.cn//">Anhui University of Technology</a></li>
 
-<h2>Work experience</h2>
+<h2>Work Experience</h2>
 <li>Intern, Shanghai Stcok Exchange, Shanghai</li>
   
 <h2>Research</h2>
@@ -47,14 +47,14 @@ E-mail: <a href="mailto:chenshaobin000001@gmail.com">chenshaobin000001@gmail.com
 </li>
 </ul>
 
-<h3>Publications </h3>
+<h2>Publications </h2>
 <li>Shaobin Chen, Jie Zhou, Yuling Sun, and Liang He. An Information Minimization Based Contrastive Learning Model for Unsupervised Sentence Embeddings Learning. THE 29TH INTERNATIONAL CONFERENCE ON COMPUTATIONAL LINGUISTICS (COLING), 2022.  [<a href="https://arxiv.org/pdf/2209.10951.pdf">pdf</a>][<a href="https://github.com/ShaobinChen-AH/InforMin-CL">code</a>]</li>
 
 <h2>Projects</h2>
-<li>SiamCSE[<a href="https://github.com/ShaobinChen-AH/SiamCSE">project page</a>]</li>
-<li>Digital Retirement[<a href="https://github.com/ShaobinChen-AH/Influence-Function-Implemented-by-Myself">project page</a>]</li>
+<li>SiamCSE[<a href="https://github.com/ShaobinChen-AH/SiamCSE"> project page</a>]</li>
+<li>Digital Retirement[<a href="https://github.com/ShaobinChen-AH/Influence-Function-Implemented-by-Myself"> project page</a>]</li>
 
-<h3>Selected Honors</h3>
+<h2>Selected Honors</h2>
 <li>National Scholarship for Graduate Students, East China Normal University (<1%)</li>
   
 <h3>Activities</h3>
