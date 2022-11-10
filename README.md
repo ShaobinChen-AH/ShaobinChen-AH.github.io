@@ -5,7 +5,7 @@
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
 <link rel="shortcut icon" href="favicon.ico" />
 <link rel="bookmark" href="favicon.ico" type="image/x-icon"　/>
-<title>Chen Shaobin (陈少斌)</title>
+
 </head>
  
 <body>
@@ -21,7 +21,7 @@
 <h1>Chen Shaobin (陈少斌) </h1>
 </div>
 <table class="imgtable"><tr><td>
-<a href="https://as.github.io/"><img src="photos/bio.jpg" alt="alt text" width="131px" height="160px" /></a>&nbsp;</td>
+<a href="https://as.github.io/"><img src="photos/个人证件照-陈少斌.jpg" alt="alt text" width="131px" height="160px" /></a>&nbsp;</td>
 <td align="left"><p>Master Student,<br />
 East China Normal University,<br />
 Shanghai, China <br /> 
